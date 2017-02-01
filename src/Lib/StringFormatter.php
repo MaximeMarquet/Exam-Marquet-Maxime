@@ -2,7 +2,7 @@
 
 namespace Lib;
 
-class MyClass
+class StringFormatter
 {
     /**
      * @param string $prefix
