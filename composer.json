@@ -1,0 +1,13 @@
+{
+    "name": "xraz/eval-git",
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "friendsofphp/php-cs-fixer": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "maxime",
+            "email": "maxime.marquet1@gmail.com"
+        }
+    ]
+}
